@@ -1,5 +1,5 @@
 # -ABML-
-##基于安卓ABML开发模型（AndroidAbstractBasisModelLogic）开发的demo
+##基于安卓ABML开发模型（AndroidAbstractBaseModelLogic）开发的demo
 
 介绍：
 *  com.example.androidmvcdemo.AbstractActivity 
