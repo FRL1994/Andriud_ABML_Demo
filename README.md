@@ -9,10 +9,10 @@
 
 ## 介绍：
 *  com.example.androidmvcdemo.AbstractActivity （抽象类）
-    + 说明：用来存放抽象方法
+    + 说明：用来存放抽象方法  (被基础方法层继承)
     - 继承关系：继承 Activity (被BaseActivity或DataActivity继承)
 *  com.example.androidmvcdemo.BaseActivity （抽象类）
-    + 用来存放操作界面用的基础方法
+    + 用来存放操作界面用的基础方法 
     - 继承关系：继承 AbstractActivity (or DataActivity)   
 *  com.example.androidmvcdemo.DataActivity （抽象类）
     + 用来存放操作数据用的基础方法
