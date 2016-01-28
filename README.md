@@ -12,13 +12,13 @@
     + 说明：用来存放抽象方法  (被基础方法层继承)
     - 继承关系：继承 Activity (被BaseActivity或DataActivity继承)
 *  com.example.androidmvcdemo.BaseActivity （抽象类）
-    + 用来存放操作界面用的基础方法 
+    + 说明：用来存放操作界面用的基础方法 
     - 继承关系：继承 AbstractActivity (or DataActivity)   
 *  com.example.androidmvcdemo.DataActivity （抽象类）
-    + 用来存放操作数据用的基础方法
+    + 说明：用来存放操作数据用的基础方法
     - 继承关系：继承 BaseActivity (or AbstractActivity)
 *  com.example.androidmvcdemo.LogicActivity
-    + 用来存放逻辑操作的类（逻辑线，用来定义复杂逻辑关系的类）
+    + 说明：用来存放逻辑操作的类（逻辑线，用来定义复杂逻辑关系的类）
     - 继承关系：继承 DataActivity (or BaseActivity)
 *  com.example.androidmvcdemo.Model
-     + 用来存放定义model的类
+     + 说明：用来存放定义model的类
