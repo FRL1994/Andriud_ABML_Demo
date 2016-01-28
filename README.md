@@ -7,7 +7,7 @@
         + （Java开发的程序占用的内存，呵呵。你懂得……）
     * 逻辑操作建议使用RXJava或handler。
 
-## 介绍：
+## 介绍:
 *  com.example.androidmvcdemo.AbstractActivity （抽象类）
     + 说明：用来存放抽象方法  (被基础方法层继承)
     - 继承关系：继承 Activity (被BaseActivity或DataActivity继承)
