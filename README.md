@@ -5,7 +5,7 @@
     * 关于数据存储，建议使用Nosql。
         +  在程序运行时，将重要数据和比较大的数据存储在内部存储和SharedPreferences中，用来降低程序的内存使用。
         + （Java开发的程序占用的内存，呵呵。你懂得……）
-    * 逻辑操作建议使用RXJava。
+    * 逻辑操作建议使用RXJava或handler。
 
 ## 介绍：
 *  com.example.androidmvcdemo.AbstractActivity （抽象类）
