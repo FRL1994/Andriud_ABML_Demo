@@ -1,6 +1,6 @@
 # -ABML-
 ##基于安卓ABML开发模型（AndroidAbstractBaseModelLogic）开发的demo
-##PS:本开发模型不建议使用全局变量(除实例化View外),请尽可能将界面和数据分离，用于后期更好的维护代码
+##PS:本开发模型不建议使用全局变量(除实例化View外),请尽可能将界面和数据分离成单独的方法，用于后期更好的维护代码
 
 介绍：
 *  com.example.androidmvcdemo.AbstractActivity 
